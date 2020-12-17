@@ -2,43 +2,51 @@
     {
         "name": "Blessed",
         "urlSong": "https://jjj.ijjiii.is/d61a6f450f4b99c77783c2c84da1386a/1mUjMttejpU/ioxruxemuxcoc",
-        "urlImg":"https://secureservercdn.net/198.71.233.64/100.949.myftpupload.com/wp-content/uploads/2017/10/Daniel-Caesar-album.jpg"
+        "urlImg":"https://secureservercdn.net/198.71.233.64/100.949.myftpupload.com/wp-content/uploads/2017/10/Daniel-Caesar-album.jpg",
+        "ArtistId": 1
 
     },
     {
         "name": "Get You",
         "urlSong": "https://jsl.ijjiii.is/7500dfbc290940251d2cbcdc91f654af/uQFVqltOXRg/iovruvemuvcoc",
-        "urlImg":"https://musicalsoulsite.files.wordpress.com/2017/09/maxresdefault.jpg"
+        "urlImg":"https://musicalsoulsite.files.wordpress.com/2017/09/maxresdefault.jpg",
+        "ArtistId": 1
     },
     {
         "name": "At My Worst",
         "urlSong": "https://ljj.ijjiii.is/b27ce5f86441a28b0ad239f0f8889e01/8CEJoCr_9UI/ioxruxemuxcoc",
-        "urlImg":"https://asset-a.grid.id/crop/0x0:0x0/750x504/photo/2020/11/20/2528722237.jpg"
+        "urlImg":"https://asset-a.grid.id/crop/0x0:0x0/750x504/photo/2020/11/20/2528722237.jpg",
+        "ArtistId": 3
     },
     {
         "name": "Untuk Apa",
         "urlSong": "https://iii.ijjiii.is/b13afa4b47be2d279dcd700165d3a62c/wCwBwLmPqdY/iovruvemuvcoc",
-        "urlImg":"https://www.mldspot.com/sites/default/files/styles/max_1300x1300/public/field/image/Hindia.jpg?itok=5cGmXeJu"
+        "urlImg":"https://www.mldspot.com/sites/default/files/styles/max_1300x1300/public/field/image/Hindia.jpg?itok=5cGmXeJu",
+        "ArtistId": 2
     },
     {
         "name": "Evaluasi",
         "urlSong": "https://jii.ijjiii.is/f31e46adcba2fdb70a18525976ab0175/cWrSjCZ5AeE/ioxruxemuxcoc",
-        "urlImg":"https://1.bp.blogspot.com/-FiUvT1iRuFk/XJrr66oiZII/AAAAAAAAZeA/yu1iMI4QHfwvjJ805n9pehBJ1IHRKZJowCLcBGAs/s1600/Hindia%2B-%2BEvaluasi%2B-%2BLirik%2Blagu%2Bbaru.jpg"
+        "urlImg":"https://1.bp.blogspot.com/-FiUvT1iRuFk/XJrr66oiZII/AAAAAAAAZeA/yu1iMI4QHfwvjJ805n9pehBJ1IHRKZJowCLcBGAs/s1600/Hindia%2B-%2BEvaluasi%2B-%2BLirik%2Blagu%2Bbaru.jpg",
+        "ArtistId": 2
     },
     {
         "name": "Sunday Best",
         "urlSong": "https://lls.ijjiii.is/3193dc8782fdd4f3273301a00edd3824/_83KqwEEGw4/iovruvemuvcoc",
-        "urlImg":"https://i.ytimg.com/vi/qBGDrV2h2Oo/maxresdefault.jpg"
+        "urlImg":"https://i.ytimg.com/vi/qBGDrV2h2Oo/maxresdefault.jpg",
+        "ArtistId": 4
     },
     {
         "name": "Slow Dancing In the Dark",
         "urlSong": "https://lii.ijjiii.is/fac946d98ba46537a2209bf8ea669d00/K3Qzzggn--s/ioxruxemuxcoc",
-        "urlImg":"https://i1.sndcdn.com/artworks-000406584354-ergqvh-t500x500.jpg"
+        "urlImg":"https://i1.sndcdn.com/artworks-000406584354-ergqvh-t500x500.jpg",
+        "ArtistId": 5
     },
     {
         "name": "Honesty",
         "urlSong": "https://jjs.ijjiii.is/6034accd3975500270d33503b4d590db/-Y9VtoPvtuM/iovruvemuvcoc",
-        "urlImg": "https://images.genius.com/2f30c08a8b3c6b1e4261059cf43c2b03.640x640x1.jpg"
+        "urlImg": "https://images.genius.com/2f30c08a8b3c6b1e4261059cf43c2b03.640x640x1.jpg",
+        "ArtistId": 3
     }
 
 ]
