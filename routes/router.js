@@ -1,11 +1,12 @@
 const express = require('express')
 const router = express.Router()
+const Controller = require('../controller/controller')
 
 router.get('/login',)
 router.post('/register',)
 router.get('/register',)
 router.post('/register',)
-router.get('/home')
+router.get('/home', Controller.home)
 router.get('/profil')
 router.get('/profil/playlist')
 router.get('/song-list')
@@ -18,3 +19,5 @@ router.post('/admin/song/add')
 router.get('/admin/song/edit/:id')
 router.post('/admin/song/edit/:id')
 router.get('/admin/song/delete')
+
+module.exports = router

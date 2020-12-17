@@ -1,11 +1,11 @@
 const express = require('express')
 const app = express()
-const router = require('./routes/router')
+const router = require('./routes/router.js')
 const port = 3000
 
 app.set('view engine', 'ejs')
 
-app.use(express.urlencoded({extended}))
+app.use(express.urlencoded({extended: true}))
 
 app.use('/', router)
 
