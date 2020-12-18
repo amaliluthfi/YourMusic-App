@@ -1,6 +1,7 @@
 'use strict';
+const { EMLINK } = require('constants');
 const fs = require('fs')
-const songs = JSON.parse(fs.readFileSync('./songs.json', 'utf-8'))
+const songs = JSON.parse(fs.readFileSync('./lagu.json', 'utf-8'))
 
 module.exports = {
   up: (queryInterface, Sequelize) => {
@@ -9,6 +10,7 @@ module.exports = {
       element.createdAt = new Date()
       element.updatedAt = new Date()
     });
+
     return queryInterface.bulkInsert("Songs", songs, {})
     /**
      * Add seed commands here.
@@ -21,8 +23,8 @@ module.exports = {
     */
   },
 
-  down: async (queryInterface, Sequelize) => {
-    return queryInterface.bulkInsert("Songs", null, {}) 
+  down: (queryInterface, Sequelize) => {
+    return queryInterface.bulkDelete("Songs", null, {})
     /**
      * Add commands to revert seed here.
      *
